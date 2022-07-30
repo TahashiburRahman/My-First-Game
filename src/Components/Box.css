@@ -1,0 +1,23 @@
+.box{
+    background-color: #3e282b;
+    border:none;
+    border-radius: 13%;
+    box-shadow: 0px 0px 10px red;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+    margin: 8px;
+}
+.x{
+    color: #a37b73;
+}
+.o{
+    color: #d34f73;
+}
+.box:hover{
+    box-shadow: 0px 0px 20px white;
+}
